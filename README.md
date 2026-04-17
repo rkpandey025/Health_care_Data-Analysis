@@ -110,8 +110,10 @@ Key insights:
 ---
 
 ## 📸 Dashboard Preview
+<img width="1376" height="745" alt="image" src="https://github.com/user-attachments/assets/222c65d2-00ee-4562-82ed-330907faa221" />
+<img width="1391" height="756" alt="image" src="https://github.com/user-attachments/assets/97e1130c-3cc1-4ba1-b7da-f6cd68c93f31" />
 
-*(Add your Power BI screenshot here)*
+
 
 ---
 
